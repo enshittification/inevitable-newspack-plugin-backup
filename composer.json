@@ -16,7 +16,7 @@
 	"require-dev": {
 		"brainmaestro/composer-git-hooks": "^2.6",
 		"xwp/wp-dev-lib": "^1.5",
-		"automattic/vipwpcs": "^2.0.0",
+		"automattic/vipwpcs": "^3.0.1",
 		"wp-coding-standards/wpcs": "*",
 		"dealerdirect/phpcodesniffer-composer-installer": "*",
 		"phpcompatibility/phpcompatibility-wp": "*"
