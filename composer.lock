@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "32c81292815a5f5a6ddbba0b9edbb34b",
+    "content-hash": "6b8f9c9f03a683606253afae9a25b423",
     "packages": [
         {
             "name": "composer/installers",
@@ -890,16 +890,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v7.113.0",
+            "version": "v16.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "1aef1ccffad48f39952073e0ed53cb8f3f1b1d8c"
+                "reference": "813ae4961755af28a13bda451689f7a6ed6498cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/1aef1ccffad48f39952073e0ed53cb8f3f1b1d8c",
-                "reference": "1aef1ccffad48f39952073e0ed53cb8f3f1b1d8c",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/813ae4961755af28a13bda451689f7a6ed6498cb",
+                "reference": "813ae4961755af28a13bda451689f7a6ed6498cb",
                 "shasum": ""
             },
             "require": {
@@ -911,8 +911,7 @@
             "require-dev": {
                 "friendsofphp/php-cs-fixer": "3.5.0",
                 "phpstan/phpstan": "^1.2",
-                "phpunit/phpunit": "^5.7 || ^9.0",
-                "squizlabs/php_codesniffer": "^3.3"
+                "phpunit/phpunit": "^5.7 || ^9.0"
             },
             "type": "library",
             "extra": {
@@ -944,9 +943,9 @@
             ],
             "support": {
                 "issues": "https://github.com/stripe/stripe-php/issues",
-                "source": "https://github.com/stripe/stripe-php/tree/v7.113.0"
+                "source": "https://github.com/stripe/stripe-php/tree/v16.2.0"
             },
-            "time": "2022-02-03T23:46:29+00:00"
+            "time": "2024-10-29T21:15:53+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -2393,5 +2392,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.6.0"
 }
