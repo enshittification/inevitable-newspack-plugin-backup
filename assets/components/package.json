@@ -25,7 +25,7 @@
 	"dependencies": {
 		"@wordpress/base-styles": "^4.0.0",
 		"@wordpress/components": "^19.0.1",
-		"@wordpress/element": "^4.0.1",
+		"@wordpress/element": "^6.13.0",
 		"@wordpress/i18n": "^4.2.2",
 		"@wordpress/icons": "^6.1.0",
 		"classnames": "^2.3.1",
